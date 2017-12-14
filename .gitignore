@@ -1,0 +1,11 @@
+bin
+include
+lib
+lib64
+pyvenv.cfg
+share
+.idea
+__pycache__
+*/__pycache__
+*/testalizer.log
+*.egg-info
